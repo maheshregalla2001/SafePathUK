@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SafePath UK</string>
+    <string name="tagline">Know the area. Walk with confidence.</string>
+
+    <string name="home_welcome">Welcome to SafePath UK</string>
+    <string name="home_sprint1_note">This is an early release. The splash screen and navigation skeleton are in place. Full features will be added in future releases.</string>
+    <string name="home_open_area">Open Area detail</string>
+    <string name="home_open_about">About this app</string>
+
+    <string name="area_title">Area detail</string>
+    <string name="area_placeholder">This screen will show recorded crimes for a selected UK location. Live data will be added in a future release.</string>
+
+    <string name="about_title">About</string>
+    <string name="about_placeholder">The data source credit, permissions explanation, and settings will be added in a future release.</string>
+
+    <string name="back">Back</string>
+</resources>

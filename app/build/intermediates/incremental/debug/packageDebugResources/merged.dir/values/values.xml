@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="safe_blue_40">#1B4FA0</color>
+    <color name="safe_blue_80">#9BC3FF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="about_placeholder">The data source credit, permissions explanation, and settings will be added in a future release.</string>
+    <string name="about_title">About</string>
+    <string name="app_name">SafePath UK</string>
+    <string name="area_placeholder">This screen will show recorded crimes for a selected UK location. Live data will be added in a future release.</string>
+    <string name="area_title">Area detail</string>
+    <string name="back">Back</string>
+    <string name="home_open_about">About this app</string>
+    <string name="home_open_area">Open Area detail</string>
+    <string name="home_sprint1_note">This is an early release. The splash screen and navigation skeleton are in place. Full features will be added in future releases.</string>
+    <string name="home_welcome">Welcome to SafePath UK</string>
+    <string name="tagline">Know the area. Walk with confidence.</string>
+    <style name="Theme.SafePathUK" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/safe_blue_40</item>
+        <item name="android:statusBarColor">@color/safe_blue_40</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

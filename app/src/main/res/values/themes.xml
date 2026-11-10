@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose handles theming at runtime; this base keeps the launch window on-brand. -->
+    <style name="Theme.SafePathUK" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/safe_blue_40</item>
+        <item name="android:statusBarColor">@color/safe_blue_40</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "uk.ac.tees.mad.sxxxxxxxx.app-mergeDebugResources-50:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\aivis\\.gradle\\caches\\9.6.0\\transforms\\8f7ba9fd21228e98e2019d4fce3e3961\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
