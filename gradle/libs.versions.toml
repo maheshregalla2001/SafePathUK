@@ -1,7 +1,7 @@
 [versions]
 # Sprint 1 scope: only the libraries needed for Compose and Navigation.
 # Sprint 2-5 libraries (Room, Retrofit, biometric, location, accompanist) will be re-added later.
-agp = "9.5.1"
+agp = "9.2.1"
 kotlin = "2.2.10"
 coreKtx = "1.13.1"
 lifecycle = "2.8.7"
