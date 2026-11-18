@@ -17,7 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SafePathUK"
         android:usesCleartextTraffic="false"
-        tools:targetApi="34">
+        tools:targetApi="36">
         <activity
             android:name=".MainActivity"
             android:exported="true"
