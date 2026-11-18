@@ -1,10 +1,18 @@
+# Built-in Android Studio ignores (standard template)
 *.iml
-.gradle
+.gradle/
 /local.properties
-/.idea
+local.properties
+.idea/
 .DS_Store
-/build
-/captures
 .externalNativeBuild
 .cxx
-local.properties
+captures/
+
+# Build outputs at ANY folder level (root, app/, any module)
+build/
+
+# Android keystore and sensitive secrets
+*.jks
+*.keystore
+google-services.json
