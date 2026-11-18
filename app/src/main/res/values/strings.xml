@@ -3,16 +3,32 @@
     <string name="app_name">SafePath UK</string>
     <string name="tagline">Know the area. Walk with confidence.</string>
 
+    <!-- Home -->
     <string name="home_welcome">Welcome to SafePath UK</string>
     <string name="home_sprint1_note">This is an early release. The splash screen and navigation skeleton are in place. Full features will be added in future releases.</string>
     <string name="home_open_area">Open Area detail</string>
     <string name="home_open_about">About this app</string>
 
+    <!-- Area detail -->
     <string name="area_title">Area detail</string>
     <string name="area_placeholder">This screen will show recorded crimes for a selected UK location. Live data will be added in a future release.</string>
 
+    <!-- About -->
     <string name="about_title">About</string>
-    <string name="about_placeholder">The data source credit, permissions explanation, and settings will be added in a future release.</string>
 
+    <string name="about_data_source">Data source</string>
+    <string name="about_data_source_body">Crime records in this app come from data.police.uk, the official UK Police open data service. Your identity and your exact location are never sent to any other company.</string>
+
+    <string name="about_licence">Licence (OGL v3.0)</string>
+    <string name="about_licence_body">This app uses public sector information published by the UK Police. That information is licensed under the Open Government Licence v3.0. The button below opens the full licence in your browser.</string>
+    <string name="about_licence_link">Read the licence</string>
+    <string name="about_licence_url">https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/</string>
+
+    <string name="about_permissions">Permissions</string>
+    <string name="about_permissions_body">The current version of SafePath UK declares only the internet permission so it can later fetch crime records over a secure HTTPS connection. No other permission is used in this release.</string>
+
+    <string name="about_version">Version %1$s</string>
+
+    <!-- Common -->
     <string name="back">Back</string>
 </resources>
